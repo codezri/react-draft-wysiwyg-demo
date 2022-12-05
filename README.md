@@ -22,7 +22,7 @@ yarn start
 ## Credits/Copyrights
 This React project was developed based on the [jpuri/react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg)
 repository and [this LogRocket article](https://blog.logrocket.com/building-rich-text-editors-in-react-using-draft-js-and-react-draft-wysiwyg/).
-Credit goes to the particular articles author, [Jeremy Kithome](https://blog.logrocket.com/author/jeremykithome/).
+Credit goes to the particular article's author, [Jeremy Kithome](https://blog.logrocket.com/author/jeremykithome/).
 
 
 ## License
