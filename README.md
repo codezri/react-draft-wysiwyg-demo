@@ -3,6 +3,8 @@
 A rich text editor component and a preview section created with [Draft.js](https://github.com/facebook/draft-js)
 and [react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg)
 
+![](media/preview.png)
+
 ## How to run the project?
 
 - Download or clone the repository.
